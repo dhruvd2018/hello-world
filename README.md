@@ -1,5 +1,5 @@
 # hello-world
 
-var = "hello world"
-print var
+
+print ("Hello World")
 
